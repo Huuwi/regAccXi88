@@ -1,0 +1,449 @@
+API lấy danh sách bank : 
+https://banca90.com/api/1.0/site/banks
+get , không cần cookie
+
+
+
+{
+    "Error": [],
+    "Code": 200,
+    "Result": {
+        "Banks": [
+            {
+                "Id": 41,
+                "Display": "ABBANK",
+                "Name": "ABBANK",
+                "Sort": 1,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 15,
+                "Display": "ACB BANK",
+                "Name": "ACB BANK",
+                "Sort": 2,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 1,
+                "Display": "AGRIBANK",
+                "Name": "AGRIBANK",
+                "Sort": 3,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 47,
+                "Display": "ANZVL",
+                "Name": "ANZ BANK",
+                "Sort": 4,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 2,
+                "Display": "BAC A BANK",
+                "Name": "BAC A BANK",
+                "Sort": 5,
+                "AccountFormat": 2
+            }
+            {
+                "Id": 3,
+                "Display": "BAO VIET BANK",
+                "Name": "BAO VIET BANK",
+                "Sort": 6,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 4,
+                "Display": "BIDV BANK",
+                "Name": "BIDV BANK",
+                "Sort": 7,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 61,
+                "Display": "BVBANK",
+                "Name": "BVBANK",
+                "Sort": 8,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 45,
+                "Display": "CAKE",
+                "Name": "CAKE",
+                "Sort": 9,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 42,
+                "Display": "NH TM TNHH MTV XAY DUNG VIET NAM",
+                "Name": "CB BANK",
+                "Sort": 10,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 17,
+                "Display": "NH MTV CIMB",
+                "Name": "CIMB BANK",
+                "Sort": 11,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 64,
+                "Display": "CITI",
+                "Name": "CITI",
+                "Sort": 12,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 48,
+                "Display": "CO OPBANK",
+                "Name": "CO OPBANK",
+                "Sort": 13,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 58,
+                "Display": "DBS",
+                "Name": "DBS",
+                "Sort": 14,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 21,
+                "Display": "DONGA BANK",
+                "Name": "DONGA BANK",
+                "Sort": 15,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 5,
+                "Display": "EXIMBANK",
+                "Name": "EXIMBANK",
+                "Sort": 16,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 6,
+                "Display": "GP BANK",
+                "Name": "GP BANK",
+                "Sort": 17,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 7,
+                "Display": "HD BANK",
+                "Name": "HD BANK",
+                "Sort": 18,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 62,
+                "Display": "HNB",
+                "Name": "HNB",
+                "Sort": 19,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 8,
+                "Display": "HONGLEONG BANK",
+                "Name": "HONGLEONG BANK",
+                "Sort": 20,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 49,
+                "Display": "HSBC",
+                "Name": "HSBC",
+                "Sort": 21,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 59,
+                "Display": "IBK",
+                "Name": "IBK",
+                "Sort": 22,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 9,
+                "Display": "INDOVINA BANK",
+                "Name": "IVB",
+                "Sort": 23,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 53,
+                "Display": "KBANK",
+                "Name": "KBANK",
+                "Sort": 24,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 10,
+                "Display": "KIENLONGBANK",
+                "Name": "KIENLONGBANK",
+                "Sort": 25,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 60,
+                "Display": "KOOKMI",
+                "Name": "KOOKMI",
+                "Sort": 26,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 11,
+                "Display": "LIENVIET BANK",
+                "Name": "LIENVIET BANK",
+                "Sort": 27,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 56,
+                "Display": "LIOBANK",
+                "Name": "LIOBANK",
+                "Sort": 28,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 63,
+                "Display": "MAFC",
+                "Name": "MAFC",
+                "Sort": 29,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 13,
+                "Display": "MBBANK",
+                "Name": "MBBANK",
+                "Sort": 30,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 12,
+                "Display": "MSB BANK",
+                "Name": "MSB BANK",
+                "Sort": 31,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 14,
+                "Display": "NAMA BANK",
+                "Name": "NAMA BANK",
+                "Sort": 32,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 18,
+                "Display": "NH TMCP QUOC DAN",
+                "Name": "NCB",
+                "Sort": 33,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 65,
+                "Display": "NHB",
+                "Name": "NHB",
+                "Sort": 34,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 25,
+                "Display": "OCB BANK",
+                "Name": "OCB BANK",
+                "Sort": 35,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 23,
+                "Display": "OCEANBANK",
+                "Name": "OCEANBANK",
+                "Sort": 36,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 24,
+                "Display": "PGBANK",
+                "Name": "PGBANK",
+                "Sort": 37,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 46,
+                "Display": "PVCOMBANK",
+                "Name": "PVCOMBANK",
+                "Sort": 38,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 26,
+                "Display": "SACOMBANK",
+                "Name": "SACOMBANK",
+                "Sort": 39,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 27,
+                "Display": "SAIGONBANK",
+                "Name": "SAIGONBANK",
+                "Sort": 40,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 51,
+                "Display": "SCB",
+                "Name": "SCB",
+                "Sort": 41,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 50,
+                "Display": "SCBVL",
+                "Name": "SCBVL",
+                "Sort": 42,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 28,
+                "Display": "SEABANK",
+                "Name": "SEABANK",
+                "Sort": 43,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 29,
+                "Display": "SHB BANK",
+                "Name": "SHB BANK",
+                "Sort": 44,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 30,
+                "Display": "SHINHAN BANK VN",
+                "Name": "SHINHAN BANK VN",
+                "Sort": 45,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 31,
+                "Display": "TECHCOMBANK",
+                "Name": "TECHCOMBANK",
+                "Sort": 46,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 55,
+                "Display": "TIMO BANK",
+                "Name": "TIMO BANK",
+                "Sort": 47,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 32,
+                "Display": "TPBANK",
+                "Name": "TPBANK",
+                "Sort": 48,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 52,
+                "Display": "UBANK",
+                "Name": "UBANK",
+                "Sort": 49,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 33,
+                "Display": "UNITED OVERSEAS BANK",
+                "Name": "UOB",
+                "Sort": 50,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 44,
+                "Display": "VIETNAM DEVELOPMENT BANK",
+                "Name": "VDB",
+                "Sort": 51,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 34,
+                "Display": "VIB BANK",
+                "Name": "VIB BANK",
+                "Sort": 52,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 35,
+                "Display": "VIDPUBLIC BANK",
+                "Name": "VIDPUBLIC BANK",
+                "Sort": 53,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 19,
+                "Display": "VIET CAPITAL BANK",
+                "Name": "VIET CAPITAL BANK",
+                "Sort": 54,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 20,
+                "Display": "VIETA BANK",
+                "Name": "VIETA BANK",
+                "Sort": 55,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 36,
+                "Display": "VIETBANK",
+                "Name": "VIETBANK",
+                "Sort": 56,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 37,
+                "Display": "VIETCOMBANK",
+                "Name": "VIETCOMBANK",
+                "Sort": 57,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 38,
+                "Display": "VIETINBANK",
+                "Name": "VIETINBANK",
+                "Sort": 58,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 43,
+                "Display": "VIETNAM BANK FOR SOCIAL POLICIES",
+                "Name": "VIETNAM BANK FOR SOCIAL POLICIES",
+                "Sort": 59,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 39,
+                "Display": "VPBANK",
+                "Name": "VPBANK",
+                "Sort": 60,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 16,
+                "Display": "NH LD VIET NGA",
+                "Name": "VRB(VIET NGA)",
+                "Sort": 61,
+                "AccountFormat": 2
+            },
+            {
+                "Id": 40,
+                "Display": "WOORI BANK",
+                "Name": "WOORI BANK",
+                "Sort": 62,
+                "AccountFormat": 2
+            }
+        ]
+    },
+    "ReplyTime": "\/Date(1727787299793)\/"
+}

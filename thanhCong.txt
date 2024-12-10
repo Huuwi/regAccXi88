@@ -1,0 +1,5 @@
+{"user_name":"ahas98y2aass","pass_word":"123456hg","bank_number":"23048208430123","phone":"0912817298712","email":"testjh1@gmail.com","true_name":"BAN VAN SAU","bank_id":13,"bank_brach":"Ha Noi"}
+{"user_name":"as923jkasds","pass_word":"123456hg","bank_number":"23094820843012","phone":"0912817298712","email":"testjh1@gmail.com","true_name":"BAN VAN SAY","bank_id":13,"bank_brach":"Ha Noi"}
+{"user_name":"as923jkasda","pass_word":"123456hg","bank_number":"23048208430123","phone":"0912817298712","email":"testjh1@gmail.com","true_name":"NGUYEN THI XINH","bank_id":13,"bank_brach":"Ha Noi"}
+{"user_name":"ahss98y2as","pass_word":"123456hg","bank_number":"9080983408202","phone":"0912817298712","email":"testjh1@gmail.com","true_name":"BU THI LOAN","bank_id":13,"bank_brach":"Ha Noi"}
+{"user_name":"ahs98y2","pass_word":"123456hg","bank_number":"8901829300904","phone":"0912817298712","email":"testjh1@gmail.com","true_name":"NGUYEN VAN TAM","bank_id":13,"bank_brach":"Ha Noi"}
